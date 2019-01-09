@@ -1,4 +1,4 @@
-require 'flynn-dashboard-web-icons/version'
+require 'drycc-dashboard-web-icons/version'
 
 module FlynnDashboardWebIcons
   def self.assets_dir

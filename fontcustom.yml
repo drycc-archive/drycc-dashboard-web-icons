@@ -11,7 +11,7 @@ font_ascent: 5000                     # Location of font ascent
 font_descent: 200                     # Location of font descent
 
 no_hash: true
-font_name: "flynn-dashboard-web-icons"
+font_name: "drycc-dashboard-web-icons"
 
 input:
   vectors: ./src
@@ -22,6 +22,6 @@ output:
   css: ./assets
   preview: ./preview
 
-templates: [ flynn-dashboard-web-icons.scss, preview ]
+templates: [ drycc-dashboard-web-icons.scss, preview ]
 css_selector: .icn-{{glyph}}
 preprocessor_path: ""

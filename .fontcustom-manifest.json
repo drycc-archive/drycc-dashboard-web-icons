@@ -4,10 +4,10 @@
     "current": "a83d154a8bba1a00729319c7437b80cfce7adfea3b25dcd653ef317301c88916"
   },
   "fonts": [
-    "./assets/flynn-dashboard-web-icons.ttf",
-    "./assets/flynn-dashboard-web-icons.svg",
-    "./assets/flynn-dashboard-web-icons.woff",
-    "./assets/flynn-dashboard-web-icons.eot"
+    "./assets/drycc-dashboard-web-icons.ttf",
+    "./assets/drycc-dashboard-web-icons.svg",
+    "./assets/drycc-dashboard-web-icons.woff",
+    "./assets/drycc-dashboard-web-icons.eot"
   ],
   "glyphs": {
     "auth": {
@@ -76,7 +76,7 @@
     "font_descent": 200,
     "font_design_size": 52,
     "font_em": 5200,
-    "font_name": "flynn-dashboard-web-icons",
+    "font_name": "drycc-dashboard-web-icons",
     "force": false,
     "input": {
       "templates": "./templates",
@@ -93,12 +93,12 @@
     "quiet": false,
     "skip_first": false,
     "templates": [
-      "flynn-dashboard-web-icons.scss",
+      "drycc-dashboard-web-icons.scss",
       "preview"
     ]
   },
   "templates": [
-    "./assets/flynn-dashboard-web-icons.scss",
-    "./preview/flynn-dashboard-web-icons-preview.html"
+    "./assets/drycc-dashboard-web-icons.scss",
+    "./preview/drycc-dashboard-web-icons-preview.html"
   ]
 }
